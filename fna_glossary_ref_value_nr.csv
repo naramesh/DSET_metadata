@@ -1,0 +1,87 @@
+Glossary ID,Reference Value,Definition
+989706017,AB,The Canadian province of Alberta
+989706017,AL,The US State of  Alabama
+989706017,AK,The US State of Alaska 
+989706017,AZ,The US State of Arizona
+989706017,AR,The US State of Arkansas
+989706017,CA,The US State of California
+989706017,CO,The US State of  Colorado
+989706017,CT,The US State of  Connecticut
+989706017,DE,The US State of Delaware 
+989706017,DC,"The US State of Washington, D.C."
+989706017,FL,The US State of Florida Florida
+989706017,GA,The US State of Georgia
+989706017,HI,The US State of Hawaii
+989706017,ID,The US State of Idaho 
+989706017,IL,The US State of Illinois
+989706017,IN,The US State of Indiana
+989706017,IA,The US State of Iowa
+989706017,KS,The US State of Kansas
+989706017,KY,The US State of Kentucky
+989706017,LA,The US State of Louisiana
+989706017,ME,The US State of Maine
+989706017,MD,The US State of Maryland
+989706017,MA,The US State of Massachusetts
+989706017,MI,The US State of Michigan
+989706017,MN,The US State of Minnesota
+989706017,MS,The US State of Mississippi
+989706017,MO,The US State of Missouri
+989706017,MT,The US State of Montana
+989706017,NE,The US State of Nebraska
+989706017,NV,The US State of Nevada
+989706017,NH,The US State of New Hampshire
+989706017,NJ,The US State of New Jersey
+989706017,NM,The US State of New Mexico
+989706017,NY,The US State of New York
+989706017,NC,The US State of North Carolina
+989706017,ND,The US State of North Dakota
+989706017,OH,The US State of Ohio
+989706017,OK,The US State of Oklahoma
+989706017,OR,The US State of Oregon
+989706017,PA,The US State of Pennsylvania
+989706017,RI,The US State of Rhode Island
+989706017,SC,The US State of South Carolina
+989706017,SD,The US State of South Dakota
+989706017,TN,The US State of Tennessee
+989706017,TX,The US State of Texas
+989706017,UT,The US State of Utah
+989706017,VT,The US State of Vermont
+989706017,VA,The US State of Virginia
+989706017,WA,The US State of Washington
+989706017,WV,The US State of West Virginia
+989706017,WI,The US State of Wisconsin
+989706017,WY,The US State of Wyoming 
+989706017,BC,The Candadian Province of British Columbia
+989706017,MB,The Candadian Province of Manitoba
+989706017,NB,The Candadian Province of New Brunswick
+989706017,NL,The Candadian Province of New foundland and Labrador
+989706017,NS,The Candadian Province of Nova Scotua
+989706017,NT,The Candadian Province of Northwest territories
+989706017,NIT,The Candadian Province of Nunavut
+989706017,ON,The Candadian Province of Ontario
+989706017,QC,The Candadian Province of Quebec
+989706017,YT,The Candadian Province of Yukon
+989705689,O,CashOutRefinance -The reference value is added for historical RDW data in AUT. Reference Value Code is 2.
+989705689,C,Construction - A short-term loan used to finance the building of a home or other real estate project and acquire the land (if applicable).
+989705689,E,"HomeEquityTakeout - A mortgage loan, usually in a subordinate position, in which the loan amount represents a percentage of the borrower's available equity in the subject property."
+989705689,I,"HomeImprovement - A mortgage that requires that funds are used to renovate, remodel, repair, or upgrade their existing home or a home that they are purchasing."
+989705689,L,LimitedCashOut - The reference value is added for historical RDW data in AUT. Reference Value Code is L.
+989705689,P,Purchase - A transaction through which the borrower obtains financing secured by a property to acquire an ownership interest in the property.
+989705689,Y,"Refinance - A transaction through which the borrower obtains financing secured by a property in which he/she has an ownership interest, typically paying off an existing lien and/or using the proceeds for other eligible purposes such as home improvement or debt consolidation."
+989705689,R,"ReverseMortgage - A type of mortgage in which certain homeowners (based on age restrictions) can borrow money against the equity of his or her home. No repayment of the mortgage (principal or interest) is required until the borrower dies, vacates the home as his/her primary residence or the home is sold."
+989707353,O,Occpied by unknown - A status reported by the listing broker/agent responsible for the marketing of the REO property when the assigned listing broker is unable to determine the occupancy of the REO property.
+989707353,P,"OwnerOccupied - (Primary Home)A status reported by the listing broker/agent responsible for the marketing of the REO property where the property is currently occupied by the owner / former mortgagor of the property or a parent, child, or spouse of the owner/former mortgagor."
+989707353,R,RemovedOrDestroyed - The property has been removed or destroyed.
+989707353,I,"TenantOccupied - (Investment) A status reported by the listing broker/agent responsible for the marketing of the REO property where the property is currently occupied by anyone who is not the owner, parent, child, or spouse of the owner / former mortgagor who is inhabiting an REO property."
+989708379,CO,"Condominium -A unit within a project for which an owner has title to his or her individual unit, an interest in the project's common areas, and, in some cases, the exclusive use of certain limited common areas. The unit may be attached or detached."
+989708379,FC,"Foreclosure -The termination of an owner's right to a property, usually due to default. Typically involves a forced sale of the property at public auction, with the proceeds being applied to the outstanding mortgage debt."
+989708379,PU,FourUnits -The loans within this category type are all secured by properties with four dwelling units.
+989708379,MH,"ManufacturedHousing -A dwelling unit built on a permanent chassis and attached to a permanent foundation system. Other factory-built housing (not built on a permanent chassis), such as modular, prefabricated, panelized, or sectional housing, is not considered manufactured housing. The manufactured home must be a one-unit dwelling that is legally classified as real property."
+989708379,MI,MI - The information related to property type is not available.
+989708379,SF,SingleFamily - A residential property containing one to four dwelling units.
+989708379,SU,SingleUnit - The loans within this category type are all secured by properties with one dwelling unit.
+989708379,CP,ThreeUnits - The loans within this category type are all secured by properties with three dwelling units.
+989708379,P,TwoUnits -The loans within this category type are all secured by properties with two dwelling units.  The Collateral Group Category types are not mutually exclusive.
+989726098,C,Company - (Headquarters) - A code indicating the address is for a registered headquarters of a legal entity.
+989726098,R,Region - (Mailing) A code indicating the address is where an individual or legal entity receives letters or packages.
+989726098,B,Branch - (Other) A code indicating the address type value does not appear in the reference value list.
